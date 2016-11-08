@@ -1,0 +1,10 @@
+auth_magic: zw5L24KWf4OP2xOeqAp6vabmYzA7wS0I
+password_hash_algos: sha256
+shop_name: エフアンドジー
+force_ssl: null
+admin_allow_host: {  }
+cookie_lifetime: 0
+locale: ja
+timezone: Asia/Tokyo
+pageinrange: false
+eccube_install: 1
